@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visha\\source\\repos\\ContactManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|c:\\users\\visha\\source\\repos\\contactmanager\\contactmanager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|c:\\users\\visha\\source\\repos\\contactmanager\\contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|c:\\users\\visha\\source\\repos\\contactmanager\\contactmanager\\exceptionhandler\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\exceptionhandler\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|c:\\users\\visha\\source\\repos\\contactmanager\\contactmanager\\contact.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\contact.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|c:\\users\\visha\\source\\repos\\contactmanager\\contactmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|c:\\users\\visha\\source\\repos\\contactmanager\\contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7812F3-307B-40AA-9E22-B0279FEA6038}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\ExceptionHandler\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ContactManager\\ExceptionHandler\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\ExceptionHandler\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "ContactManager\\ExceptionHandler\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:30:24.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContactManager\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContactManager\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T05:41:12.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Program.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Program.cs",
+              "RelativeToolTip": "ContactManager\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:51:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactManager\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:44:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.json",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Contact.json",
+              "RelativeDocumentMoniker": "ContactManager\\Contact.json",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Contact.json",
+              "RelativeToolTip": "ContactManager\\Contact.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T04:43:28.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:42:07.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
