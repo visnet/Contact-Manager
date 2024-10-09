@@ -486,11 +486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\source\\repos\\Project\\Contact-Manager-Project\\ContactManager\\ContactManager\\ContactManager.csproj",
       "projectName": "ContactManager",
-      "projectPath": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "projectPath": "C:\\Users\\visha\\source\\repos\\Project\\Contact-Manager-Project\\ContactManager\\ContactManager\\ContactManager.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visha\\source\\repos\\ContactManager\\ContactManager\\obj\\",
+      "outputPath": "C:\\Users\\visha\\source\\repos\\Project\\Contact-Manager-Project\\ContactManager\\ContactManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",

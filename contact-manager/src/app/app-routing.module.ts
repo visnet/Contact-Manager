@@ -3,13 +3,12 @@ import { RouterModule, Routes } from '@angular/router';
 import { ContactListComponent } from './components/contact-list/contact-list.component';
 import { ContactFormComponent } from './components/contact-form/contact-form.component';
 import { ContactDetailsComponent } from './components/contact-details/contact-details.component';
+import { ContactManagerComponent } from './components/contact-manager/contact-manager.component';
+
 
 const routes: Routes = [
-  { path: '', component: ContactListComponent },
-  { path: 'contact-form', component: ContactFormComponent },
-  { path: 'contact-form/:id', component: ContactFormComponent },
-  { path: 'contact-details/:id', component: ContactDetailsComponent },
-  { path: '**', redirectTo: '', pathMatch: 'full' }
+  { path: '', component: ContactManagerComponent }, // Default route
+  { path: 'contact-form', component: ContactManagerComponent }, // Alternatively, you can still keep a separate form route
 ];
 
 @NgModule({

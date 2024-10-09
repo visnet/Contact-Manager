@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit,Input } from '@angular/core';
 import { ContactService} from '../../services/contact.service';
 import { Contact } from '../../models/contact';
 
@@ -8,7 +8,8 @@ import { Contact } from '../../models/contact';
   styleUrls: ['./contact-list.component.css']
 })
 export class ContactListComponent implements OnInit {
-  contacts: Contact[] = [];
+  //contacts: Contact[] = [];
+  @Input() contacts: Contact[] = []; // Ensure this is defined as an @Input
 
   constructor(private contactService: ContactService) { }
 

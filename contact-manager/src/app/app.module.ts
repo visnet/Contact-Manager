@@ -8,13 +8,15 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { ContactListComponent } from './components/contact-list/contact-list.component';
 import { ContactFormComponent } from './components/contact-form/contact-form.component';
 import { ContactDetailsComponent } from './components/contact-details/contact-details.component';
+import { ContactManagerComponent } from './components/contact-manager/contact-manager.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ContactListComponent,
     ContactFormComponent,
-    ContactDetailsComponent
+    ContactDetailsComponent,
+    ContactManagerComponent
   ],
   imports: [
     BrowserModule,

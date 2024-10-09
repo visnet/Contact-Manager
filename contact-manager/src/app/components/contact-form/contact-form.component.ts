@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, EventEmitter, Output , OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { ContactService} from '../../services/contact.service';
 import { Router, ActivatedRoute } from '@angular/router';
@@ -13,6 +13,7 @@ export class ContactFormComponent implements OnInit {
 [x: string]: any;
   contactForm: FormGroup;
   contactId: number | null = null;
+  @Output() contactCreated = new EventEmitter<Contact>();
 
   constructor(
     private fb: FormBuilder,

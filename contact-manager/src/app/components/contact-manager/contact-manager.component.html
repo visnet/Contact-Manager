@@ -1,0 +1,6 @@
+<div class="container">
+    <h2>Contact Manager</h2>
+    <app-contact-form (contactCreated)="addContact($event)"></app-contact-form>
+    <app-contact-list [contacts]="contacts"></app-contact-list>
+  </div>
+  
